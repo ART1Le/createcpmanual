@@ -130,7 +130,7 @@ Header.BorderSizePixel=0
 Header.Font=Enum.Font.GothamBold
 Header.TextSize=16
 Header.TextColor3=Color3.new(1,1,1)
-Header.Text="Checkpoint Manager"
+Header.Text="CP CREATOR By ART1LE"
 Header.Parent=Main
 
 local function mkButton(t,size,pos)
